@@ -10,5 +10,5 @@ Self‑hosted media library that lets you organize, track, and manage all your p
 
 ---
 
-### [WireGuard + Tailscale Manager](https://github.com/freyja-of-fate/CATSWireGuardManager)
+### [WireGuard + Tailscale Manager](https://github.com/freyja-of-fate/cats_wireguard_manager)
 A desktop utility that manages WireGuard tunnels while integrating Tailscale rules, firewall killswitch logic, IPv6 blocking, and adaptive interface control.
